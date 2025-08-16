@@ -1,6 +1,6 @@
 # 🤖 Chatbot for Healthcare Queries  
 
-![Chatbot Healthcare](./chatbot-healthcare.png)
+![Chatbot Healthcare](./nlp.png)
 
 An **AI-powered healthcare assistant** designed to deliver **precise, trustworthy, and contextually relevant responses** to medical queries using **Retrieval-Augmented Generation (RAG)**.  
 
